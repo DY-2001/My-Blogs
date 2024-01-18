@@ -4,6 +4,9 @@ https://docs.google.com/document/d/1rFPB6KtUPmW12AjsHibKD4iicE15rbmKHa6TlIy7ufk/
 #Project Vedio Link
 https://youtu.be/P5TJO2ruvMI
 
+#Deploy Link
+https://my-blogs-frontend.vercel.app/
+
 ## Frontend Setup
 ```
 cd frontend
